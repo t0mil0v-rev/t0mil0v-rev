@@ -53,7 +53,7 @@ show, and explain the decisions behind them.
 
 ### Track record
 
-* **Innopolis Hackathon Winner(2026):** First place in cybersecurity/development case by MTS.
+* **Innopolis Hackathon Winner(2026):** First place in cybersecurity case by MTS.
 * **Proven E-Commerce history:** Three years in services
 Most of the commit history here is private, so the contribution graph says
 little. The portfolio and the reviews with amounts and dates are at
