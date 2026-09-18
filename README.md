@@ -1,3 +1,5 @@
+<h1 align="center" style="font-size: 1.8em;">DoubleLuc</h1>
+
 <p align="center">
   Systems and backend developer.<br>
   I write in C, Rust, Zig and assembly where speed and memory matter,
@@ -51,12 +53,8 @@ show, and explain the decisions behind them.
 
 ### Track record
 
-* **Innopolis Hackathon 2026 Winner:** First place in cybersecurity/development case by MTS.
-* **Proven E-Commerce history:** Three years in services, 3 015 closed deals, 2 050 buyers.
-* **5.0 average rating** across [two](https://funpay.com/users/10668394/) [profiles](https://funpay.com/users/7461860/).
-
-Not development work, but the history is verifiable: real money, real offers, 2 050 buyers.
-
+* **Innopolis Hackathon Winner(2026):** First place in cybersecurity/development case by MTS.
+* **Proven E-Commerce history:** Three years in services
 Most of the commit history here is private, so the contribution graph says
 little. The portfolio and the reviews with amounts and dates are at
 [dev.doubleluc.icu](https://dev.doubleluc.icu).
